@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Follow-up students skills progresses",
   "main": "index.js",
-  "engine": {
+  "engines": {
     "node": ">8.0.0"
   },
   "scripts": {
