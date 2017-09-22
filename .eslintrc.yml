@@ -1,0 +1,12 @@
+env:
+  node: true
+parserOptions:
+  ecmaVersion: 2017
+  sourceType: module
+extends:
+  - airbnb/base
+  - eslint:recommended
+  - standard
+rules:
+  max-len: off
+  import/prefer-default-export: off
