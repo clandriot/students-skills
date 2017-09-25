@@ -7,7 +7,7 @@
     "node": ">8.0.0"
   },
   "scripts": {
-    "start": "node -r babbybel index.js",
+    "start": "nodemon -r babbybel index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
